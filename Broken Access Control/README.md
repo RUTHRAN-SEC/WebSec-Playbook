@@ -14,7 +14,10 @@ Access control is a security mechanism that defines and enforces which users are
 - Gobuster
 - Mozilla
 
-### Lab reference:
+## Platform:
+#### PortSwigger Web Security Academy
+
+## Lab reference:
 #### - Unprotected admin functionality 
 https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality
 
