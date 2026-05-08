@@ -18,41 +18,25 @@ Access control is a security mechanism that defines and enforces which users are
 #### PortSwigger Web Security Academy
 
 ## Lab reference:
-#### - Unprotected admin functionality 
-https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality
+#### Lab: URL-based access control can be circumvented
+https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Broken%20Access%20Control/Access%20control%20Vulnerability%20Labs/Lab%3A%20URL-based%20access%20control%20can%20be%20circumvented.md
 
-#### - Unprotected admin functionality with unpredictable URL
-https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality-with-unpredictable-url
+--- 
 
-#### - User role controlled by request parameter
-https://portswigger.net/web-security/access-control/lab-user-role-controlled-by-request-parameter
+#### Lab: Unprotected admin functionality with unpredictable URL
+https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Broken%20Access%20Control/Access%20control%20Vulnerability%20Labs/Lab%3A%20Unprotected%20admin%20functionality%20with%20unpredictable%20URL.md
 
-#### - User role can be modified in user profile
-https://portswigger.net/web-security/access-control/lab-user-role-can-be-modified-in-user-profile
+--- 
 
-#### - URL-based access control can be circumvented
-https://portswigger.net/web-security/access-control/lab-url-based-access-control-can-be-circumvented
+#### Lab:Unprotected admin functionality
+https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Broken%20Access%20Control/Access%20control%20Vulnerability%20Labs/Lab%3A%20Unprotected%20admin%20functionality.md
 
-#### - Method-based access control can be circumvented
-https://portswigger.net/web-security/access-control/lab-method-based-access-control-can-be-circumvented
+--- 
 
-#### - User ID controlled by request parameter
-https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter
+#### Lab: User role can be modified in user profile
+https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Broken%20Access%20Control/Access%20control%20Vulnerability%20Labs/Lab%3A%20User%20role%20can%20be%20modified%20in%20user%20profile.md
 
-#### - User ID controlled by request parameter, with unpredictable user IDs
-https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-unpredictable-user-ids
+--- 
 
-#### - User ID controlled by request parameter with data leakage in redirect
-https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect
-
-#### - User ID controlled by request parameter with password disclosure
-https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-password-disclosure
-
-#### - Insecure direct object references
-https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references
-
-#### - Multi-step process with no access control on one step
-https://portswigger.net/web-security/access-control/lab-multi-step-process-with-no-access-control-on-one-step
-
-#### - Referer-based access control
-https://portswigger.net/web-security/access-control/lab-referer-based-access-control
+#### Lab: User role controlled by request parameter
+https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Broken%20Access%20Control/Access%20control%20Vulnerability%20Labs/Lab%3A%20User%20role%20controlled%20by%20request%20parameter.md
