@@ -17,3 +17,4 @@ A basic clickjacking attack is created by embedding a legitimate website inside 
 #### PortSwigger Web Security Academy
 
 ## Lab reference:
+
