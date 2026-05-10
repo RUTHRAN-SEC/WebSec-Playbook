@@ -9,12 +9,15 @@ SQL Injection (SQLi) is a critical web security vulnerability that occurs when a
 ## Tools used:
 Tools used:
 - Burp Suite
-- Gobuster
 - Mozilla
 
 ## Platform:
 **PortSwigger Web Security Academy** 
 
 ## Lab reference:
+#### Lab: SQL injection vulnerability allowing login bypass
+https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/SQL%20Injection/SQL%20Injection%20Vulnerability%20Labs/Lab%3A%20SQL%20injection%20vulnerability%20allowing%20login%20bypass.md
 
+#### Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/SQL%20Injection/SQL%20Injection%20Vulnerability%20Labs/Lab%3A%20SQL%20injection%20vulnerability%20in%20WHERE%20clause%20allowing%20retrieval%20of%20hidden%20data.md
 
