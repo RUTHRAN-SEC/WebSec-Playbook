@@ -19,24 +19,24 @@ Access control is a security mechanism that defines and enforces which users are
 
 ## Lab reference:
 #### Lab: URL-based access control can be circumvented
-https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Broken%20Access%20Control/Access%20control%20Vulnerability%20Labs/Lab%3A%20URL-based%20access%20control%20can%20be%20circumvented.md
+https://tinyurl.com/mtcya45b
 
 --- 
 
 #### Lab: Unprotected admin functionality with unpredictable URL
-https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Broken%20Access%20Control/Access%20control%20Vulnerability%20Labs/Lab%3A%20Unprotected%20admin%20functionality%20with%20unpredictable%20URL.md
+https://tinyurl.com/mtzxudn7
 
 --- 
 
 #### Lab:Unprotected admin functionality
-https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Broken%20Access%20Control/Access%20control%20Vulnerability%20Labs/Lab%3A%20Unprotected%20admin%20functionality.md
+https://tinyurl.com/223ey57m
 
 --- 
 
 #### Lab: User role can be modified in user profile
-https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Broken%20Access%20Control/Access%20control%20Vulnerability%20Labs/Lab%3A%20User%20role%20can%20be%20modified%20in%20user%20profile.md
+https://tinyurl.com/2nartjtm
 
 --- 
 
 #### Lab: User role controlled by request parameter
-https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Broken%20Access%20Control/Access%20control%20Vulnerability%20Labs/Lab%3A%20User%20role%20controlled%20by%20request%20parameter.md
+https://tinyurl.com/y9kyr5ex
