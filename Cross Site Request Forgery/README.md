@@ -16,4 +16,7 @@ the attacker may gain control over the account or even the entire application.
 - Burp Suite
 - Mozilla
 
+## Platform:
+#### PortSwigger Web Security Academy
+
 ## Lab reference:
