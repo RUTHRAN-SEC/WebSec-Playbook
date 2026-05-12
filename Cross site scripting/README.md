@@ -9,3 +9,14 @@ Cross-Site Scripting (XSS) is a web security vulnerability that allows attackers
 #### PortSwigger Web Security Academy
 
 ## Lab reference:
+#### Lab: DOM XSS in document.write sink using source location.search
+https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Cross%20site%20scripting/Cross%20site%20scripting%20Vulnerability%20Labs/Lab%3A%20DOM%20XSS%20in%20document.write%20sink%20using%20source%20location.search.md
+
+#### Lab: DOM XSS in innerHTML sink using source location.search
+https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Cross%20site%20scripting/Cross%20site%20scripting%20Vulnerability%20Labs/Lab%3A%20DOM%20XSS%20in%20innerHTML%20sink%20using%20source%20location.search.md
+
+#### Lab: Reflected XSS into HTML context with nothing encoded
+https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Cross%20site%20scripting/Cross%20site%20scripting%20Vulnerability%20Labs/Lab%3A%20Reflected%20XSS%20into%20HTML%20context%20with%20nothing%20encoded.md
+
+#### Lab: Stored XSS into HTML context with nothing encoded
+https://github.com/RUTHRAN-SEC/WebSec-Playbook/blob/main/Cross%20site%20scripting/Cross%20site%20scripting%20Vulnerability%20Labs/Lab%3A%20Stored%20XSS%20into%20HTML%20context%20with%20nothing%20encoded.md
