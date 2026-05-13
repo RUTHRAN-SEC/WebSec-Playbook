@@ -20,3 +20,5 @@ the attacker may gain control over the account or even the entire application.
 #### PortSwigger Web Security Academy
 
 ## Lab reference:
+#### Lab: CSRF vulnerability with no defenses
+https://tinyurl.com/4wfzhusm
